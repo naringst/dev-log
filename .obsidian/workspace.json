@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/따라하며 배우는 타입스크립트/tsconfig.json 설정하기.md",
+                "file": "Typescript/따라하며 배우는 타입스크립트/3-1 호출 시그니처, 인덱스 시그니처.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0c8ab667d514bfc4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/따라하며 배우는 타입스크립트/tsconfig.json 설정하기.md",
+                "file": "Typescript/따라하며 배우는 타입스크립트/3-1 호출 시그니처, 인덱스 시그니처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/따라하며 배우는 타입스크립트/tsconfig.json 설정하기.md",
+                "file": "Typescript/따라하며 배우는 타입스크립트/3-1 호출 시그니처, 인덱스 시그니처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/따라하며 배우는 타입스크립트/tsconfig.json 설정하기.md"
+                "file": "Typescript/따라하며 배우는 타입스크립트/3-1 호출 시그니처, 인덱스 시그니처.md"
               }
             }
           }
@@ -148,10 +148,22 @@
   },
   "active": "17cc656739cf82eb",
   "lastOpenFiles": [
+    "Typescript/따라하며 배우는 타입스크립트/4-2 .d.ts.md",
+    "Typescript/따라하며 배우는 타입스크립트/4-1 tsconfig.json.md",
+    "스크린샷 2024-01-12 오후 3.08.05.png",
+    "Typescript/따라하며 배우는 타입스크립트/3-5 Utility 타입(질문).md",
+    "Typescript/따라하며 배우는 타입스크립트/3-4 Generics(질문).md",
+    "Typescript/따라하며 배우는 타입스크립트/3-2 함수 오버로딩(질문).md",
+    "Typescript/따라하며 배우는 타입스크립트/3-6 Implements vs Extends.md",
+    "Typescript/따라하며 배우는 타입스크립트/3-7 keyof operator.md",
+    "Typescript/따라하며 배우는 타입스크립트/tsconfig.json 설정하기.md",
+    "Typescript/따라하며 배우는 타입스크립트/3-8 Mapped Types.md",
+    "Typescript/따라하며 배우는 타입스크립트/3-3 접근 제어자.md",
+    "Typescript/따라하며 배우는 타입스크립트/3-1 호출 시그니처, 인덱스 시그니처.md",
+    "Typescript/따라하며 배우는 타입스크립트/types(type alias) vs interface.md",
     "Flutter/How Flutter Works.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "Typescript/따라하며 배우는 타입스크립트/tsconfig.json 설정하기.md",
     "Typescript/따라하며 배우는 타입스크립트",
     "README.md",
     "Typescript",
